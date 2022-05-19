@@ -10,6 +10,10 @@
 
 Criar interfaces acessíveis através de um browser que permita o usuário a gerenciar a discografia da dupla caipira Tião Carreiro e Pardinho.
 
+## 🚀 Links
+
+- Site em produção: [Link](https://discografia-tiao-carreiro.netlify.app/)
+
 ## 💻 Tecnologias utilizadas
 
 - HTML5
@@ -25,10 +29,6 @@ Criar interfaces acessíveis através de um browser que permita o usuário a ger
 - ✅ Adicionar uma nova faixa em um álbum
 - ✅ Excluir uma faixa
 - ✅ Excluir um álbum
-
-## 🚀 Links
-
-- Site em produção: [Link]("Link")
 
 ## ⚡️ Instalação
 
